@@ -23,6 +23,8 @@ public class TheMotivator {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
 		tm.feedback(-10);
+		tm.feedback(40);
+		tm.feedback(0);
 	}
 
 }
